@@ -1,0 +1,5 @@
+# Large raw/combined data files (rebuild with notebook 01; see README)
+combined_airline_data.csv
+*.csv
+.ipynb_checkpoints/
+.DS_Store
